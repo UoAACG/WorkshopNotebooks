@@ -21,10 +21,10 @@ Numpy, Scipy, Sympy, Pandas, Scikit-Learn και Matplotlib. Το περιβάλ
 
 
 ### Notebooks
-0. ***Εισαγωγικό tutorial, επίδειξη των δυνατοτήτων της Python****
+0. ***Εισαγωγικό tutorial, επίδειξη των δυνατοτήτων της Python***
 https://github.com/UOAPythonWorkshop/WorkshopNotebooks/blob/master/Tutorial.ipynb
 
-1. ***Δραστηριότητα 1: Γραμμική προσαρμογή δεδομένων με τη χρήση κοσμολογικών μοντέλων σε δεδομένα supernovae****
+1. ***Δραστηριότητα 1: Γραμμική προσαρμογή δεδομένων με τη χρήση κοσμολογικών μοντέλων σε δεδομένα supernovae***
 https://github.com/UOAPythonWorkshop/WorkshopNotebooks/blob/master/Linear_Regresion_ex_and_extras.ipynb
 
 ----------------------
